@@ -52,7 +52,6 @@ I am Michelle (Shelly) Toyloy. I use this setup to run projects the way I would 
 ## Skills
 - [product-designer](skills/product-designer/SKILL.md) and [product-manager](skills/product-manager/SKILL.md): advice and documents only. Design reviews, A/B plans, briefs, PRDs, and prioritization. They never change the build.
 - [session-handoff](skills/session-handoff/SKILL.md): a fixed end-of-session summary so a fresh session can pick up where the last one stopped.
-- [promptwell](skills/promptwell/SKILL.md): turns a rough ask into a short brief with a definition of done and a verification plan, then runs it.
 - [agent-operator](skills/agent-operator/SKILL.md): a decision guide for when to use subagents, teams, worktrees, or workflows.
 - [case-study-steps](skills/case-study-steps/SKILL.md): turns a messy account of my work into at most three steps for a website.
 - [writing-check](skills/writing-check/SKILL.md): audits a draft against my voice rules before it goes out.
@@ -71,7 +70,6 @@ I am Michelle (Shelly) Toyloy. I use this setup to run projects the way I would 
 - Full notice in [NOTICE.md](NOTICE.md). License: MIT, see [LICENSE](LICENSE).
 - The grill-me and session-handoff skills are adapted from Nate Herk's public repositories, used under the MIT license (see [NOTICE.md](NOTICE.md)).
 - The roast skill is adapted from Naim Katiman's public repository, used under the MIT license (see [NOTICE.md](NOTICE.md)).
-- The promptwell skill comes from the AI Automation Society community (Nate Herk). I adapted it for my own use.
 - The agent-operator skill summarizes the official Claude Code docs (https://code.claude.com/docs).
 
 ## About Aisle
