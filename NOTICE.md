@@ -5,7 +5,7 @@ Most files here are my own work, under the MIT license in [LICENSE](LICENSE).
 ## Adapted from other sources
 - `skills/grill-me` is adapted from https://github.com/nateherkai/AIS-OS and `skills/session-handoff` from https://github.com/nateherkai/claude-code-mods, both by Nate Herk, used under the MIT license reproduced below.
 - `skills/roast` is adapted from https://github.com/naimkatiman/continuous-improvement by Naim Katiman, used under the MIT license reproduced below. That file is itself adapted from a community `/roast` pattern.
-- `skills/promptwell` was shared in the AI Automation Society community (Nate Herk). I adapted them for my own use. They may trace back to other authors, and I do not claim them as my own work. If you are the original author and want a different credit or removal, open an issue.
+- `skills/promptwell` was shared in the AI Automation Society community (Nate Herk). I adapted it for my own use. It may trace back to other authors, and I do not claim it as my own work. If you are the original author and want a different credit or removal, open an issue.
 - `skills/agent-operator` is my summary of the official Claude Code documentation (https://code.claude.com/docs). The documentation belongs to Anthropic.
 
 ## Third-party license: grill-me and session-handoff
