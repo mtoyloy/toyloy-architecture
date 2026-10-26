@@ -70,7 +70,8 @@ I am Michelle (Shelly) Toyloy. I use this setup to run projects the way I would 
 ## Credits
 - Full notice in [NOTICE.md](NOTICE.md). License: MIT, see [LICENSE](LICENSE).
 - The grill-me and session-handoff skills are adapted from Nate Herk's public repositories, used under the MIT license (see [NOTICE.md](NOTICE.md)).
-- The roast and promptwell skills come from the AI Automation Society community (Nate Herk). I adapted them for my own use.
+- The roast skill is adapted from Naim Katiman's public repository, used under the MIT license (see [NOTICE.md](NOTICE.md)).
+- The promptwell skill comes from the AI Automation Society community (Nate Herk). I adapted it for my own use.
 - The agent-operator skill summarizes the official Claude Code docs (https://code.claude.com/docs).
 
 ## About Aisle
